@@ -11,8 +11,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "body-parser": "^1.18.2",
     "bootstrap": "^3.3.7",
-    "express": "^4.16.1"
+    "express": "^4.16.1",
+    "lodash": "^4.17.4",
+    "node-uuid": "^1.4.8"
   },
   "devDependencies": {
     "pug": "^2.0.0-rc.4"
